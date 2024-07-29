@@ -1,0 +1,4 @@
+in render deployment use these command 
+root directry make empty
+Build command -> npm ci; npm run build
+Start command -> npm start
